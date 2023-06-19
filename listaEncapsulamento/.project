@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>lista2</name>
+	<name>listaEncapsulamento</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1687218561052</id>
+			<id>1687218561511</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
